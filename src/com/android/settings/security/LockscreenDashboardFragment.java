@@ -32,6 +32,7 @@ import android.provider.Settings;
 import androidx.annotation.VisibleForTesting;
 
 import co.aospa.settings.display.DozeOnChargePreferenceController;
+import co.aospa.settings.gestures.ScreenOffUdfpsPreferenceController;
 
 import com.android.settings.R;
 import com.android.settings.dashboard.DashboardFragment;
@@ -39,7 +40,6 @@ import com.android.settings.display.AmbientDisplayAlwaysOnPreferenceController;
 import com.android.settings.display.AmbientDisplayNotificationsPreferenceController;
 import com.android.settings.gestures.DoubleTapScreenPreferenceController;
 import com.android.settings.gestures.PickupGesturePreferenceController;
-import com.android.settings.gestures.ScreenOffUdfpsPreferenceController;
 import com.android.settings.notification.LockScreenNotificationPreferenceController;
 import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settings.security.screenlock.LockScreenPreferenceController;
